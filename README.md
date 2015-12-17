@@ -7,4 +7,4 @@ Downloads:
 
 [Pre-Release] Build #1:
 
-<a href = "https://github.com/SWNetworkDevelopers/PocketMath/releases/tag/Pre-Release">![Download](http://www.iconarchive.com/download/i85566/graphicloads/100-flat/download-2.ico)
+<a href = "https://github.com/SWNetworkDevelopers/PocketMath/releases/tag/Pre-Release">![Download](http://3.bp.blogspot.com/-b6emO4d6_mE/VKOPhnSJgqI/AAAAAAAAABY/JXbzJJeWAQc/s1600/Download-Now-site.png)
