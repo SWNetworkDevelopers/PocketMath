@@ -24,6 +24,20 @@ class Main extends PluginBase{
           $b = array_shift($args);
           $c = $a + $b;
           $s->sendMessage(C::GREEN."The Answer is $c");
+          if(strtolower($cmd->getName() == "sub")){
+            if(!isset($args[0] or $args[1])){
+              $s->sendMessage(C::RED."Usage: /sub <Number 1> <Number 2>");
+            }else{
+              if(!is_numeric($args[0] or $args[1])){
+                $s->sendMessage(C::RED."Usage: /sub <Number 1> <Number 2>")
+              }else{
+                $d = array_shift($args);
+                $e = array_shift($args);
+                $f = $d - $e;
+                $s->sendMessage(C::GREEN."The Answer is $f");
+              }
+            }
+          }
         }
       }
     }
