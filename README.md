@@ -3,8 +3,8 @@ Add Math Functions to your Server: Includes basic Math Functions!
 
 Downloads:
 
-### Pre-Release #1:
+## Releases:
 
-#### DOWNLOAD => https://github.com/SWNetworkDevelopers/PocketMath/releases/tag/Pre-Release
+[Pre-Release] Build #1:
 
-## Release #1:
+<a href = "https://github.com/SWNetworkDevelopers/PocketMath/releases/tag/Pre-Release">![Download](http://www.iconarchive.com/download/i85566/graphicloads/100-flat/download-2.ico)
