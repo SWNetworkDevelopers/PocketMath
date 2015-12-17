@@ -7,4 +7,4 @@ Downloads:
 
 [Pre-Release] Build #1:
 
-<a href = "https://github.com/SWNetworkDevelopers/PocketMath/releases/tag/Pre-Release">![Download](http://3.bp.blogspot.com/-b6emO4d6_mE/VKOPhnSJgqI/AAAAAAAAABY/JXbzJJeWAQc/s1600/Download-Now-site.png)
+<a href = "https://github.com/SWNetworkDevelopers/PocketMath/releases/tag/Pre-Release">![Download](http://1.bp.blogspot.com/-FcmLlS5BGas/VUzfSCHLL0I/AAAAAAAAZuc/4-zKscFwv7w/s1600/download-button-png-azul-reflexo.png)
