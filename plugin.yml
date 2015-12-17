@@ -1,0 +1,9 @@
+name: PocketMath
+main: Taki21\PocketMath\Main
+api: [1.12.0, 1.13.0]
+version: 0.0.1
+author: Taki21
+commands:
+ add:
+  usage: /add <Number 1> <Number 2>
+  description: Add 2 Numbers and Get Your Answer
