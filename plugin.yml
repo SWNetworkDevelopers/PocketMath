@@ -5,5 +5,14 @@ version: 0.0.1
 author: Taki21
 commands:
  add:
-  usage: /add <Number 1> <Number 2>
+  usage: /add <Number1> <Number2>
   description: Add 2 Numbers and Get Your Answer
+ sub:
+  usage: /sub <Number1> <Number2>
+  description: Subtract 2 Numbers and Get Your Answer
+ mult:
+  usage: /mult <Number1> <Number2>
+  description: Multiply 2 Numbers and Get Your Answer
+ div:
+  usage: /div <Number1> <Number2>
+  description: Divide 2 Numbers and Get Your Answer
