@@ -1,7 +1,7 @@
 # PocketMath
 Add Math Functions to your Server: Includes basic Math Functions!
 
-WARNING: Build 1 and 2 Crashes Server! I noticed that ... Build 3 will come out soon!
+REMOVED: Build 1 and 2
 
 Downloads:
 
