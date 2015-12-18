@@ -7,10 +7,6 @@ Downloads:
 
 ## Releases:
 
-[Pre-Release] Build #1:
+[Release] Build #3:
 
-<a href = "https://github.com/SWNetworkDevelopers/PocketMath/archive/Pre-Release.zip">![Download](http://1.bp.blogspot.com/-FcmLlS5BGas/VUzfSCHLL0I/AAAAAAAAZuc/4-zKscFwv7w/s1600/download-button-png-azul-reflexo.png)</a>
-
-[Release] Build #2:
-
-<a href = "https://github.com/SWNetworkDevelopers/PocketMath/archive/Release.zip">![Download](http://1.bp.blogspot.com/-FcmLlS5BGas/VUzfSCHLL0I/AAAAAAAAZuc/4-zKscFwv7w/s1600/download-button-png-azul-reflexo.png)</a>
+<a href = "https://github.com/SWNetworkDevelopers/PocketMath/releases/download/Release3/PocketMath_v0.0.1.phar">![Download](http://1.bp.blogspot.com/-FcmLlS5BGas/VUzfSCHLL0I/AAAAAAAAZuc/4-zKscFwv7w/s1600/download-button-png-azul-reflexo.png)</a>
