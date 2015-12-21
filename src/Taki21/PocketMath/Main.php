@@ -53,6 +53,35 @@ class Main extends PluginBase{
                  $s->sendMessage(C::GREEN."The Answer is $l");
              }
         }
+        if(strtolower($cmd->getName() == "prct")){
+            if(!count($args == 0 or 1)){
+                $s->sendMessage(C::RED."/prct <Number1> <Number2>");
+            }else{
+                $m = array_shift($args);
+                $n = array_shift($args);
+                $o = $n*($m / 100);
+                $s->sendMessage(C::GREEN."The Answer is $o");
+            }
+        }
+        if(strtolower($cmd->getName() == "expo")){
+            if(!count($args == 0 or 1)){
+                $s->sendMessage(C::RED."/expo <Number1> <Number2>");
+            }else{
+                $p = array_shift($args);
+                $q = array_shift($args);
+                $r = $p**$q;
+                $s->sendMessage(C::GREEN."The Answer is $r");
+            }
+        }
+        if(strtolower($cmd->getName() == "circle")){
+            if(!count($args == 0)){
+                $s->sendMessage(C::RED."/circle <Radius>");
+            }else{
+                $st = array_shift($args);
+                $t = $st*3.14*2;
+                $s->sendMessage(C::GREEN."The Answer is $t");
+            }
+        }
         return true;
     }
 }
